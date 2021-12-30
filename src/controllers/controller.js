@@ -1,3 +1,6 @@
+/*
+* Arquivo controller
+*/
 'use strict';
 
 const Pessoas = require('../models/model');
